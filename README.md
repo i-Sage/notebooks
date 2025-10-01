@@ -7,12 +7,14 @@ Welcome to my collection of engineering mathematics notebooks created for GEG (G
 ## 🚀 What's Inside
 
 ### 📚 Course Materials
+
 - **Symbolic Mathematics**: Solving complex equations with SymPy
 - **Engineering Applications**: Real-world problem solving
 - **Interactive Notebooks**: Jupyter notebooks for hands-on learning
 - **Visual Solutions**: Matplotlib integration for graphical analysis
 
 ### 🔧 Featured Projects
+
 - **Buck Converter Design** - Power electronics calculations and analysis
 - **Transform Functions** - Laplace, Fourier, and Z-transforms
 - **Circuit Analysis** - AC/DC circuit solving with symbolic math
@@ -40,6 +42,7 @@ from tabulate import tabulate
 ## 🎯 GEG Course Integration
 
 These notebooks are specifically designed for:
+
 - **Analytical Problem Solving**: Step-by-step symbolic solutions
 - **Engineering Design**: Practical applications and calculations
 - **Mathematical Modeling**: Real-world system representations
@@ -48,17 +51,20 @@ These notebooks are specifically designed for:
 ## 📖 Getting Started
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/i-Sage/notesbooks.git
    cd notesbooks
    ```
 
 2. **Install dependencies**
+
    ```bash
    pip install sympy numpy matplotlib jupyter tabulate
    ```
 
 3. **Launch Jupyter**
+
    ```bash
    jupyter notebook
    ```
@@ -68,6 +74,7 @@ These notebooks are specifically designed for:
 ## 🎓 Educational Focus
 
 This repository demonstrates how modern computational tools can enhance traditional engineering education by:
+
 - Making abstract mathematical concepts tangible
 - Providing immediate visual feedback
 - Enabling rapid prototyping of engineering solutions
